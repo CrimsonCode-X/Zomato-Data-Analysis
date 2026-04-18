@@ -18,4 +18,4 @@ This project analyzes restaurant data from Bangalore to identify factors influen
 Built a regression model to predict restaurant ratings.
 
 ## 🔗 Links
-Kaggle Notebook: [paste link]
+Kaggle Notebook: https://www.kaggle.com/code/amangoswami001/zomato-bangalore-restaurant-analysis-rating-pr
